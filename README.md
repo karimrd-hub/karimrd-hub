@@ -22,10 +22,10 @@ AI Engineer dedicated to building production-ready systems at the intersection o
 ### Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile-url" target="_blank">
+  <a href="https://linkedin.com/in/karim-ramadan-ai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/karimrd-hub" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
