@@ -2,7 +2,7 @@
 
 AI Engineer dedicated to building production-ready systems at the intersection of Generative AI and cloud-native engineering. I specialize in engineering scalable AI systems and applying research insights to deliver robust, secure, and maintainable solutions for complex challenges.
 
-- 🌍 I'm based in Beirut, Lebanon
+- 🌍 Beirut, Lebanon
 - ✉️ You can contact me at [karim.ramadann@outlook.com](mailto:karim.ramadann@outlook.com)
 - 🤝 I'm open to collaborating on high-impact AI and LLM projects
 
