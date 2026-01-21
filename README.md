@@ -9,7 +9,7 @@ AI Engineer dedicated to building production-ready systems at the intersection o
 ### Focus Areas
 
 - **Retrieval-Augmented Generation (RAG)**: end-to-end RAG pipelines, chunking & document segmentation, embedding strategies, hybrid retrieval, reranking, hallucination mitigation, evaluation (Recall@k, Precision@k, groundedness)
-- **Generative AI Systems**: LLM orchestration, prompt engineering, agent-based workflows, tool/function calling, cost & latency optimization
+- **Generative AI Systems**: LLM orchestration, prompt engineering, cost & latency optimization
 - **NLP & Applied ML**: text preprocessing, summarization, semantic search, classification, evaluation frameworks
 
 ### Skills
