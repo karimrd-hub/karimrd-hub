@@ -1,37 +1,61 @@
-# Karim Ramadan
+Here’s a clean version without emojis, keeping it sharp and professional:
 
-AI Engineer dedicated to building production-ready systems at the intersection of Generative AI and cloud-native engineering. I specialize in engineering scalable AI systems and applying research insights to deliver robust, secure, and maintainable solutions for complex challenges.
+---
 
-- 🌍 Beirut, Lebanon
-- ✉️ You can contact me at [karim.ramadann@outlook.com](mailto:karim.ramadann@outlook.com)
-- 🤝 I'm open to collaborating on high-impact AI and LLM projects
+## Hi, I’m Karim Ramadan
 
-### Focus Areas
+Software Engineer focused on building cloud-native systems and AI-powered applications, with strong backend expertise and production experience on AWS.
 
-- **Retrieval-Augmented Generation (RAG)**: end-to-end RAG pipelines, chunking & document segmentation, embedding strategies, hybrid retrieval, reranking, hallucination mitigation, evaluation (Recall@k, Precision@k, groundedness)
-- **Generative AI Systems**: LLM orchestration, prompt engineering, cost & latency optimization
-- **NLP & Applied ML**: text preprocessing, summarization, semantic search, classification, evaluation frameworks
+I design and develop scalable, high-performance systems, integrating LLMs and AI services into real-world products while optimizing for latency, cost, and reliability.
 
-### Skills
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-</p>
+## What I Do
 
-### Socials
+* Build backend systems using Spring Boot and FastAPI
+* Design cloud-native architectures on AWS (serverless and containerized)
+* Develop and deploy AI systems (RAG pipelines, LLM integrations, speech systems)
+* Optimize performance and infrastructure cost through system design and data-driven decisions
+* Implement production-ready systems with monitoring, evaluation, and fault tolerance
 
-<p align="left">
-  <a href="https://linkedin.com/in/karim-ramadan-ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/karimrd-hub" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+---
+
+## Areas of Expertise
+
+* Backend Engineering and API Design
+* Distributed Systems and Scalable Architecture
+* Applied AI Engineering (LLMs, RAG, evaluation pipelines)
+* Cloud and Infrastructure (AWS, Docker, CI/CD)
+* Database Design and Query Optimization (PostgreSQL, DynamoDB)
+* System Performance and Observability
+
+---
+
+## Tech Stack
+
+**Languages**
+Java, Python, C
+
+**Backend**
+Spring Boot, FastAPI, REST APIs, JPA, Keycloak, OAuth2, JWT
+
+**AI / ML**
+LLMs, RAG Pipelines, LlamaIndex, Ragas, TruLens, Prompt Engineering
+
+**Cloud and DevOps**
+AWS (Lambda, ECS, API Gateway, S3, DynamoDB, SageMaker, Bedrock), Docker, CI/CD
+
+**Databases**
+PostgreSQL, DynamoDB, pgvector, Query Optimization and Indexing
+
+---
+
+## Current Focus
+
+* Building AI-native backend systems
+* Improving LLM reliability, evaluation, and orchestration
+* Designing cost-efficient, scalable cloud architectures
+
+---
+
+If you want, I can make a **shorter version (like top 3–4 lines only)** or a more **recruiter-focused version**.
