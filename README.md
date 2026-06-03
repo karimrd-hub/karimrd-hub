@@ -1,7 +1,3 @@
-Here’s a clean version without emojis, keeping it sharp and professional:
-
----
-
 ## Hi, I’m Karim Ramadan
 
 Software Engineer focused on building cloud-native systems and AI-powered applications, with strong backend expertise and production experience on AWS.
@@ -57,5 +53,3 @@ PostgreSQL, DynamoDB, pgvector, Query Optimization and Indexing
 * Designing cost-efficient, scalable cloud architectures
 
 ---
-
-If you want, I can make a **shorter version (like top 3–4 lines only)** or a more **recruiter-focused version**.
